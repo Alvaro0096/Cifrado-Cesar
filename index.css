@@ -76,10 +76,10 @@ h1{
 }
 
 #input_number{
+    width: 10rem;
     padding: .3rem;
     font-size: 1.2rem;
     color: #fff;
     background-color: var(--color-back);
     border-radius: .5rem;
-    transition: 1s;
 }
